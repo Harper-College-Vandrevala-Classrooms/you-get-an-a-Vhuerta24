@@ -1,0 +1,4 @@
+﻿  you_get_an_a.cpp
+C:\Users\nessa\OneDrive\Documents\GitHub\you-get-an-a-Vhuerta24\you_get_an_a\you_get_an_a\you_get_an_a.cpp(108,63): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nessa\OneDrive\Documents\GitHub\you-get-an-a-Vhuerta24\you_get_an_a\you_get_an_a\you_get_an_a.cpp(116,73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  you_get_an_a.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\you-get-an-a-Vhuerta24\you_get_an_a\x64\Debug\you_get_an_a.exe
